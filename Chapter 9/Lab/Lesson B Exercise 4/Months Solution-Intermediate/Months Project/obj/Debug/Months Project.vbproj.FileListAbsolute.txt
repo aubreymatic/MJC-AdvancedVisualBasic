@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Months Solution-Intermediate\Months Project\bin\Debug\Months Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Months Solution-Intermediate\Months Project\bin\Debug\Months Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Months Solution-Intermediate\Months Project\bin\Debug\Months Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Months Solution-Intermediate\Months Project\bin\Debug\Months Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Months Solution-Intermediate\Months Project\obj\Debug\Months Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Months Solution-Intermediate\Months Project\obj\Debug\Months_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Months Solution-Intermediate\Months Project\obj\Debug\Months_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Months Solution-Intermediate\Months Project\obj\Debug\Months Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Months Solution-Intermediate\Months Project\obj\Debug\Months Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Months Solution-Intermediate\Months Project\obj\Debug\Months Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Months Solution-Intermediate\Months Project\obj\Debug\Months Project.pdb

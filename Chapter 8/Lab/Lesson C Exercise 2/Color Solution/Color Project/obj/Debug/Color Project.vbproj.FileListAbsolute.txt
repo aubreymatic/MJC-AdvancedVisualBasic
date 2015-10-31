@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Color Solution\Color Project\bin\Debug\Color Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Color Solution\Color Project\bin\Debug\Color Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Color Solution\Color Project\bin\Debug\Color Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Color Solution\Color Project\bin\Debug\Color Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Color Solution\Color Project\obj\Debug\Color Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Color Solution\Color Project\obj\Debug\Color_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Color Solution\Color Project\obj\Debug\Color_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Color Solution\Color Project\obj\Debug\Color Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Color Solution\Color Project\obj\Debug\Color Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Color Solution\Color Project\obj\Debug\Color Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Color Solution\Color Project\obj\Debug\Color Project.pdb

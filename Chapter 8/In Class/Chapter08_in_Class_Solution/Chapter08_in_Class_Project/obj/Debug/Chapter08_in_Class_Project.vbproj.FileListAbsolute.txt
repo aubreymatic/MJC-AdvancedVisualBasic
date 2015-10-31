@@ -1,0 +1,11 @@
+c:\users\chris\documents\visual studio 2015\Projects\Chapter08_in_Class_Solution\Chapter08_in_Class_Project\bin\Debug\Chapter08_in_Class_Project.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\Chapter08_in_Class_Solution\Chapter08_in_Class_Project\bin\Debug\Chapter08_in_Class_Project.exe
+c:\users\chris\documents\visual studio 2015\Projects\Chapter08_in_Class_Solution\Chapter08_in_Class_Project\bin\Debug\Chapter08_in_Class_Project.pdb
+c:\users\chris\documents\visual studio 2015\Projects\Chapter08_in_Class_Solution\Chapter08_in_Class_Project\bin\Debug\Chapter08_in_Class_Project.xml
+c:\users\chris\documents\visual studio 2015\Projects\Chapter08_in_Class_Solution\Chapter08_in_Class_Project\obj\Debug\Chapter08_in_Class_Project.vbprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2015\Projects\Chapter08_in_Class_Solution\Chapter08_in_Class_Project\obj\Debug\Chapter08_in_Class_Project.Form1.resources
+c:\users\chris\documents\visual studio 2015\Projects\Chapter08_in_Class_Solution\Chapter08_in_Class_Project\obj\Debug\Chapter08_in_Class_Project.Resources.resources
+c:\users\chris\documents\visual studio 2015\Projects\Chapter08_in_Class_Solution\Chapter08_in_Class_Project\obj\Debug\Chapter08_in_Class_Project.vbproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2015\Projects\Chapter08_in_Class_Solution\Chapter08_in_Class_Project\obj\Debug\Chapter08_in_Class_Project.exe
+c:\users\chris\documents\visual studio 2015\Projects\Chapter08_in_Class_Solution\Chapter08_in_Class_Project\obj\Debug\Chapter08_in_Class_Project.xml
+c:\users\chris\documents\visual studio 2015\Projects\Chapter08_in_Class_Solution\Chapter08_in_Class_Project\obj\Debug\Chapter08_in_Class_Project.pdb

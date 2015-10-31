@@ -1,0 +1,11 @@
+c:\users\chris\documents\visual studio 2015\Projects\Lesson A Exercise 7 Solution\Lesson A Exercise 7 Project\bin\Debug\Lesson A Exercise 7 Project.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\Lesson A Exercise 7 Solution\Lesson A Exercise 7 Project\obj\Debug\Lesson A Exercise 7 Project.vbprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2015\Projects\Lesson A Exercise 7 Solution\Lesson A Exercise 7 Project\obj\Debug\Lesson_A_Exercise_7_Project.Resources.resources
+c:\users\chris\documents\visual studio 2015\Projects\Lesson A Exercise 7 Solution\Lesson A Exercise 7 Project\obj\Debug\Lesson A Exercise 7 Project.vbproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2015\Projects\Lesson A Exercise 7 Solution\Lesson A Exercise 7 Project\obj\Debug\Lesson A Exercise 7 Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Lesson A Exercise 7 Solution\Lesson A Exercise 7 Project\bin\Debug\Lesson A Exercise 7 Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Lesson A Exercise 7 Solution\Lesson A Exercise 7 Project\bin\Debug\Lesson A Exercise 7 Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Lesson A Exercise 7 Solution\Lesson A Exercise 7 Project\bin\Debug\Lesson A Exercise 7 Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Lesson A Exercise 7 Solution\Lesson A Exercise 7 Project\obj\Debug\Lesson_A_Exercise_7_Project.Form1.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Lesson A Exercise 7 Solution\Lesson A Exercise 7 Project\obj\Debug\Lesson A Exercise 7 Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Lesson A Exercise 7 Solution\Lesson A Exercise 7 Project\obj\Debug\Lesson A Exercise 7 Project.pdb

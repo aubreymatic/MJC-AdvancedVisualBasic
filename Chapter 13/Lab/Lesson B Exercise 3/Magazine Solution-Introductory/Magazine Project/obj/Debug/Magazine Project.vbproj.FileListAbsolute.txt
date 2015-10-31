@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Magazine Solution-Introductory\Magazine Project\bin\Debug\Magazine Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Magazine Solution-Introductory\Magazine Project\bin\Debug\Magazines.accdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Magazine Solution-Introductory\Magazine Project\bin\Debug\Magazine Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Magazine Solution-Introductory\Magazine Project\bin\Debug\Magazine Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Magazine Solution-Introductory\Magazine Project\bin\Debug\Magazine Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Magazine Solution-Introductory\Magazine Project\obj\Debug\Magazine_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Magazine Solution-Introductory\Magazine Project\obj\Debug\Magazine_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Magazine Solution-Introductory\Magazine Project\obj\Debug\Magazine Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Magazine Solution-Introductory\Magazine Project\obj\Debug\Magazine Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Magazine Solution-Introductory\Magazine Project\obj\Debug\Magazine Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Magazine Solution-Introductory\Magazine Project\obj\Debug\Magazine Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Magazine Solution-Introductory\Magazine Project\obj\Debug\Magazine Project.vbprojResolveAssemblyReference.cache

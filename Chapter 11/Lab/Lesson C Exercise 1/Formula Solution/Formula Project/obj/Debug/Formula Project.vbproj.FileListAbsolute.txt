@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Formula Solution\Formula Project\bin\Debug\Formula Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Formula Solution\Formula Project\obj\Debug\Formula Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Formula Solution\Formula Project\obj\Debug\Formula_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Formula Solution\Formula Project\obj\Debug\Formula_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Formula Solution\Formula Project\obj\Debug\Formula Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Formula Solution\Formula Project\bin\Debug\Formula Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Formula Solution\Formula Project\bin\Debug\Formula Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Formula Solution\Formula Project\bin\Debug\Formula Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Formula Solution\Formula Project\obj\Debug\Formula Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Formula Solution\Formula Project\obj\Debug\Formula Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Formula Solution\Formula Project\obj\Debug\Formula Project.pdb
