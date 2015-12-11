@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Addison Playhouse Solution\Addison Playhouse Project\bin\Debug\Addison Playhouse Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Addison Playhouse Solution\Addison Playhouse Project\bin\Debug\Play.accdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Addison Playhouse Solution\Addison Playhouse Project\bin\Debug\Addison Playhouse Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Addison Playhouse Solution\Addison Playhouse Project\bin\Debug\Addison Playhouse Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Addison Playhouse Solution\Addison Playhouse Project\bin\Debug\Addison Playhouse Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Addison Playhouse Solution\Addison Playhouse Project\obj\Debug\Addison_Playhouse_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Addison Playhouse Solution\Addison Playhouse Project\obj\Debug\Addison_Playhouse_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Addison Playhouse Solution\Addison Playhouse Project\obj\Debug\Addison Playhouse Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Addison Playhouse Solution\Addison Playhouse Project\obj\Debug\Addison Playhouse Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Addison Playhouse Solution\Addison Playhouse Project\obj\Debug\Addison Playhouse Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Addison Playhouse Solution\Addison Playhouse Project\obj\Debug\Addison Playhouse Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap13\Addison Playhouse Solution\Addison Playhouse Project\obj\Debug\Addison Playhouse Project.vbprojResolveAssemblyReference.cache

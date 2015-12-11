@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\CD Solution\CD Project\bin\Debug\CD Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\CD Solution\CD Project\bin\Debug\CD Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\CD Solution\CD Project\bin\Debug\CD Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\CD Solution\CD Project\bin\Debug\CD Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\CD Solution\CD Project\obj\Debug\CD Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\CD Solution\CD Project\obj\Debug\CD_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\CD Solution\CD Project\obj\Debug\CD_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\CD Solution\CD Project\obj\Debug\CD Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\CD Solution\CD Project\obj\Debug\CD Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\CD Solution\CD Project\obj\Debug\CD Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\CD Solution\CD Project\obj\Debug\CD Project.pdb

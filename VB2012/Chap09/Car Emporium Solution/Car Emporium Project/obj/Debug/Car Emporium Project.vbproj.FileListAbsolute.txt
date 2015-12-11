@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Car Emporium Solution\Car Emporium Project\bin\Debug\Car Emporium Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Car Emporium Solution\Car Emporium Project\bin\Debug\Car Emporium Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Car Emporium Solution\Car Emporium Project\bin\Debug\Car Emporium Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Car Emporium Solution\Car Emporium Project\bin\Debug\Car Emporium Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Car Emporium Solution\Car Emporium Project\obj\Debug\Car Emporium Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Car Emporium Solution\Car Emporium Project\obj\Debug\Car_Emporium_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Car Emporium Solution\Car Emporium Project\obj\Debug\Car_Emporium_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Car Emporium Solution\Car Emporium Project\obj\Debug\Car Emporium Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Car Emporium Solution\Car Emporium Project\obj\Debug\Car Emporium Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Car Emporium Solution\Car Emporium Project\obj\Debug\Car Emporium Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Car Emporium Solution\Car Emporium Project\obj\Debug\Car Emporium Project.pdb

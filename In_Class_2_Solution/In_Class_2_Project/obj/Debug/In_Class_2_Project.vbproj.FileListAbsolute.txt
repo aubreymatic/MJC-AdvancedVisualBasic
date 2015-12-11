@@ -1,0 +1,11 @@
+c:\users\chris\documents\visual studio 2015\Projects\In_Class_2_Solution\In_Class_2_Project\bin\Debug\In_Class_2_Project.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\In_Class_2_Solution\In_Class_2_Project\bin\Debug\In_Class_2_Project.exe
+c:\users\chris\documents\visual studio 2015\Projects\In_Class_2_Solution\In_Class_2_Project\bin\Debug\In_Class_2_Project.pdb
+c:\users\chris\documents\visual studio 2015\Projects\In_Class_2_Solution\In_Class_2_Project\bin\Debug\In_Class_2_Project.xml
+c:\users\chris\documents\visual studio 2015\Projects\In_Class_2_Solution\In_Class_2_Project\obj\Debug\In_Class_2_Project.vbprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2015\Projects\In_Class_2_Solution\In_Class_2_Project\obj\Debug\In_Class_2_Project.Form1.resources
+c:\users\chris\documents\visual studio 2015\Projects\In_Class_2_Solution\In_Class_2_Project\obj\Debug\In_Class_2_Project.Resources.resources
+c:\users\chris\documents\visual studio 2015\Projects\In_Class_2_Solution\In_Class_2_Project\obj\Debug\In_Class_2_Project.vbproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2015\Projects\In_Class_2_Solution\In_Class_2_Project\obj\Debug\In_Class_2_Project.exe
+c:\users\chris\documents\visual studio 2015\Projects\In_Class_2_Solution\In_Class_2_Project\obj\Debug\In_Class_2_Project.xml
+c:\users\chris\documents\visual studio 2015\Projects\In_Class_2_Solution\In_Class_2_Project\obj\Debug\In_Class_2_Project.pdb

@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\HR Sales Solution\HR Sales Project\bin\Debug\HR Sales Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\HR Sales Solution\HR Sales Project\obj\Debug\HR Sales Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\HR Sales Solution\HR Sales Project\obj\Debug\HR_Sales_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\HR Sales Solution\HR Sales Project\obj\Debug\HR_Sales_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\HR Sales Solution\HR Sales Project\obj\Debug\HR Sales Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\HR Sales Solution\HR Sales Project\obj\Debug\HR Sales Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\HR Sales Solution\HR Sales Project\bin\Debug\Sales.accdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\HR Sales Solution\HR Sales Project\bin\Debug\HR Sales Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\HR Sales Solution\HR Sales Project\bin\Debug\HR Sales Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\HR Sales Solution\HR Sales Project\bin\Debug\HR Sales Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\HR Sales Solution\HR Sales Project\obj\Debug\HR Sales Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\HR Sales Solution\HR Sales Project\obj\Debug\HR Sales Project.pdb

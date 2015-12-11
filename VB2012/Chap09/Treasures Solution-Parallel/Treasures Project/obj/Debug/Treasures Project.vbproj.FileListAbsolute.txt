@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Treasures Solution-Parallel\Treasures Project\bin\Debug\Treasures Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Treasures Solution-Parallel\Treasures Project\bin\Debug\Treasures Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Treasures Solution-Parallel\Treasures Project\bin\Debug\Treasures Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Treasures Solution-Parallel\Treasures Project\bin\Debug\Treasures Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Treasures Solution-Parallel\Treasures Project\obj\Debug\Treasures Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Treasures Solution-Parallel\Treasures Project\obj\Debug\Treasures_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Treasures Solution-Parallel\Treasures Project\obj\Debug\Treasures_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Treasures Solution-Parallel\Treasures Project\obj\Debug\Treasures Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Treasures Solution-Parallel\Treasures Project\obj\Debug\Treasures Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Treasures Solution-Parallel\Treasures Project\obj\Debug\Treasures Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Treasures Solution-Parallel\Treasures Project\obj\Debug\Treasures Project.pdb

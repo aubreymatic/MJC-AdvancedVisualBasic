@@ -1,0 +1,21 @@
+C:\Users\css\Desktop\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\bin\Debug\Week03 Inclass Assignment Project.exe.config
+C:\Users\css\Desktop\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\bin\Debug\Week03 Inclass Assignment Project.exe
+C:\Users\css\Desktop\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\bin\Debug\Week03 Inclass Assignment Project.pdb
+C:\Users\css\Desktop\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\bin\Debug\Week03 Inclass Assignment Project.xml
+C:\Users\css\Desktop\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\obj\Debug\Week03_Inclass_Assignment_Project.frmMain.resources
+C:\Users\css\Desktop\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\obj\Debug\Week03_Inclass_Assignment_Project.Resources.resources
+C:\Users\css\Desktop\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\obj\Debug\Week03 Inclass Assignment Project.vbproj.GenerateResource.Cache
+C:\Users\css\Desktop\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\obj\Debug\Week03 Inclass Assignment Project.exe
+C:\Users\css\Desktop\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\obj\Debug\Week03 Inclass Assignment Project.xml
+C:\Users\css\Desktop\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\obj\Debug\Week03 Inclass Assignment Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Chapter 9\In Class\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\bin\Debug\Week03 Inclass Assignment Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Chapter 9\In Class\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\obj\Debug\Week03 Inclass Assignment Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Chapter 9\In Class\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\obj\Debug\Week03 Inclass Assignment Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Chapter 9\In Class\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\obj\Debug\Week03 Inclass Assignment Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Chapter 9\In Class\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\bin\Debug\Week03 Inclass Assignment Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Chapter 9\In Class\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\bin\Debug\Week03 Inclass Assignment Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Chapter 9\In Class\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\bin\Debug\Week03 Inclass Assignment Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Chapter 9\In Class\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\obj\Debug\Week03 Inclass Assignment Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Chapter 9\In Class\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\obj\Debug\Week03_Inclass_Assignment_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Chapter 9\In Class\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\obj\Debug\Week03_Inclass_Assignment_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\Chapter 9\In Class\Week03 Inclass Assignment Solution\Week03 Inclass Assignment Project\obj\Debug\Week03 Inclass Assignment Project.vbproj.GenerateResource.Cache

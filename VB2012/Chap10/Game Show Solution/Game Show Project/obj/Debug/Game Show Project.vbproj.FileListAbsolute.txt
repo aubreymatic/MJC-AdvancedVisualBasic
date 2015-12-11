@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Game Show Solution\Game Show Project\bin\Debug\Game Show Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Game Show Solution\Game Show Project\bin\Debug\Game Show Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Game Show Solution\Game Show Project\bin\Debug\Game Show Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Game Show Solution\Game Show Project\bin\Debug\Game Show Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Game Show Solution\Game Show Project\obj\Debug\Game_Show_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Game Show Solution\Game Show Project\obj\Debug\Game_Show_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.pdb

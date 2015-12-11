@@ -1,0 +1,22 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Grade Solution\Grade Project\bin\Debug\Grade Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Grade Solution\Grade Project\bin\Debug\Grade Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Grade Solution\Grade Project\bin\Debug\Grade Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Grade Solution\Grade Project\bin\Debug\Grade Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Grade Solution\Grade Project\obj\Debug\Grade Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Grade Solution\Grade Project\obj\Debug\Grade_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Grade Solution\Grade Project\obj\Debug\Grade_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Grade Solution\Grade Project\obj\Debug\Grade Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Grade Solution\Grade Project\obj\Debug\Grade Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Grade Solution\Grade Project\obj\Debug\Grade Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Grade Solution\Grade Project\obj\Debug\Grade Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Grade Solution\Grade Project\bin\Debug\Grade Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Grade Solution\Grade Project\obj\Debug\Grade Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Grade Solution\Grade Project\obj\Debug\Grade Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Grade Solution\Grade Project\obj\Debug\Grade Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Grade Solution\Grade Project\bin\Debug\Grade Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Grade Solution\Grade Project\bin\Debug\Grade Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Grade Solution\Grade Project\bin\Debug\Grade Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Grade Solution\Grade Project\obj\Debug\Grade Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Grade Solution\Grade Project\obj\Debug\Grade_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Grade Solution\Grade Project\obj\Debug\Grade_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Grade Solution\Grade Project\obj\Debug\Grade Project.vbproj.GenerateResource.Cache

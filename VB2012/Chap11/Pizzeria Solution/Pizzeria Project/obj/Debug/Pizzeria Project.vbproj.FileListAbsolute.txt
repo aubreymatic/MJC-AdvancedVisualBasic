@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Pizzeria Solution\Pizzeria Project\bin\Debug\Pizzeria Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Pizzeria Solution\Pizzeria Project\bin\Debug\Pizzeria Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Pizzeria Solution\Pizzeria Project\bin\Debug\Pizzeria Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Pizzeria Solution\Pizzeria Project\bin\Debug\Pizzeria Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Pizzeria Solution\Pizzeria Project\obj\Debug\Pizzeria Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Pizzeria Solution\Pizzeria Project\obj\Debug\Pizzeria_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Pizzeria Solution\Pizzeria Project\obj\Debug\Pizzeria_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Pizzeria Solution\Pizzeria Project\obj\Debug\Pizzeria Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Pizzeria Solution\Pizzeria Project\obj\Debug\Pizzeria Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Pizzeria Solution\Pizzeria Project\obj\Debug\Pizzeria Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Pizzeria Solution\Pizzeria Project\obj\Debug\Pizzeria Project.pdb

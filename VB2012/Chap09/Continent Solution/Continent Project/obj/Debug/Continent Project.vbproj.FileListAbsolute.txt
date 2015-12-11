@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Continent Solution\Continent Project\bin\Debug\Continent Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Continent Solution\Continent Project\bin\Debug\Continent Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Continent Solution\Continent Project\bin\Debug\Continent Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Continent Solution\Continent Project\bin\Debug\Continent Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Continent Solution\Continent Project\obj\Debug\Continent Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Continent Solution\Continent Project\obj\Debug\Continent_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Continent Solution\Continent Project\obj\Debug\Continent_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Continent Solution\Continent Project\obj\Debug\Continent Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Continent Solution\Continent Project\obj\Debug\Continent Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Continent Solution\Continent Project\obj\Debug\Continent Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Continent Solution\Continent Project\obj\Debug\Continent Project.pdb

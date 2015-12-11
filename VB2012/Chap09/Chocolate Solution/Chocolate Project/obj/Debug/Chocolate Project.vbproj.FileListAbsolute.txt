@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Chocolate Solution\Chocolate Project\bin\Debug\Chocolate Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Chocolate Solution\Chocolate Project\bin\Debug\Chocolate Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Chocolate Solution\Chocolate Project\bin\Debug\Chocolate Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Chocolate Solution\Chocolate Project\bin\Debug\Chocolate Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Chocolate Solution\Chocolate Project\obj\Debug\Chocolate Project.pdb

@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\Academy Award Solution-Parameter Queries\Academy Award Project\bin\Debug\Academy Award Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\Academy Award Solution-Parameter Queries\Academy Award Project\bin\Debug\Movies.accdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\Academy Award Solution-Parameter Queries\Academy Award Project\bin\Debug\Academy Award Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\Academy Award Solution-Parameter Queries\Academy Award Project\bin\Debug\Academy Award Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\Academy Award Solution-Parameter Queries\Academy Award Project\bin\Debug\Academy Award Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\Academy Award Solution-Parameter Queries\Academy Award Project\obj\Debug\Academy Award Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\Academy Award Solution-Parameter Queries\Academy Award Project\obj\Debug\Academy_Award_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\Academy Award Solution-Parameter Queries\Academy Award Project\obj\Debug\Academy_Award_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\Academy Award Solution-Parameter Queries\Academy Award Project\obj\Debug\Academy Award Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\Academy Award Solution-Parameter Queries\Academy Award Project\obj\Debug\Academy Award Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\Academy Award Solution-Parameter Queries\Academy Award Project\obj\Debug\Academy Award Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\Academy Award Solution-Parameter Queries\Academy Award Project\obj\Debug\Academy Award Project.pdb

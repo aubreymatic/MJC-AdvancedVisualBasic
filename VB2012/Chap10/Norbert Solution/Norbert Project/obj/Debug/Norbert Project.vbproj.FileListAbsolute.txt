@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Norbert Solution\Norbert Project\bin\Debug\Norbert Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Norbert Solution\Norbert Project\bin\Debug\Norbert Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Norbert Solution\Norbert Project\bin\Debug\Norbert Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Norbert Solution\Norbert Project\bin\Debug\Norbert Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Norbert Solution\Norbert Project\obj\Debug\Norbert Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Norbert Solution\Norbert Project\obj\Debug\Norbert_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Norbert Solution\Norbert Project\obj\Debug\Norbert_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Norbert Solution\Norbert Project\obj\Debug\Norbert Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Norbert Solution\Norbert Project\obj\Debug\Norbert Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Norbert Solution\Norbert Project\obj\Debug\Norbert Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap10\Norbert Solution\Norbert Project\obj\Debug\Norbert Project.pdb

@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\JM Sales Solution\JM Sales Project\bin\Debug\JM Sales Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\JM Sales Solution\JM Sales Project\bin\Debug\AnnualSales.accdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\JM Sales Solution\JM Sales Project\bin\Debug\JM Sales Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\JM Sales Solution\JM Sales Project\bin\Debug\JM Sales Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\JM Sales Solution\JM Sales Project\bin\Debug\JM Sales Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\JM Sales Solution\JM Sales Project\obj\Debug\JM_Sales_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\JM Sales Solution\JM Sales Project\obj\Debug\JM_Sales_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap14\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.vbprojResolveAssemblyReference.cache

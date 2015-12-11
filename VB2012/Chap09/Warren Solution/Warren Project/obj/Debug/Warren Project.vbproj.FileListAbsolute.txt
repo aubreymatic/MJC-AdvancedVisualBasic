@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Warren Solution\Warren Project\bin\Debug\Warren Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Warren Solution\Warren Project\bin\Debug\Warren Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Warren Solution\Warren Project\bin\Debug\Warren Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Warren Solution\Warren Project\bin\Debug\Warren Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Warren Solution\Warren Project\obj\Debug\Warren Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Warren Solution\Warren Project\obj\Debug\Warren_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Warren Solution\Warren Project\obj\Debug\Warren_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Warren Solution\Warren Project\obj\Debug\Warren Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Warren Solution\Warren Project\obj\Debug\Warren Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Warren Solution\Warren Project\obj\Debug\Warren Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Warren Solution\Warren Project\obj\Debug\Warren Project.pdb

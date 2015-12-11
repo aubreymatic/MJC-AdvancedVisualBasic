@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Area Solution\Area Project\bin\Debug\Area Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Area Solution\Area Project\bin\Debug\Area Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Area Solution\Area Project\bin\Debug\Area Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Area Solution\Area Project\bin\Debug\Area Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Area Solution\Area Project\obj\Debug\Area Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Area Solution\Area Project\obj\Debug\Area_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Area Solution\Area Project\obj\Debug\Area_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Area Solution\Area Project\obj\Debug\Area Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Area Solution\Area Project\obj\Debug\Area Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Area Solution\Area Project\obj\Debug\Area Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Area Solution\Area Project\obj\Debug\Area Project.pdb

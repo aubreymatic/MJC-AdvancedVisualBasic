@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Rose Solution\Rose Project\bin\Debug\Rose Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Rose Solution\Rose Project\bin\Debug\Rose Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Rose Solution\Rose Project\bin\Debug\Rose Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Rose Solution\Rose Project\bin\Debug\Rose Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Rose Solution\Rose Project\obj\Debug\Rose Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Rose Solution\Rose Project\obj\Debug\Rose_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Rose Solution\Rose Project\obj\Debug\Rose_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Rose Solution\Rose Project\obj\Debug\Rose Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Rose Solution\Rose Project\obj\Debug\Rose Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Rose Solution\Rose Project\obj\Debug\Rose Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Rose Solution\Rose Project\obj\Debug\Rose Project.pdb

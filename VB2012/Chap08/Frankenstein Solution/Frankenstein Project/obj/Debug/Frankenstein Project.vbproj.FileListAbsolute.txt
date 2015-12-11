@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Frankenstein Solution\Frankenstein Project\bin\Debug\Frankenstein Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Frankenstein Solution\Frankenstein Project\bin\Debug\Frankenstein Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Frankenstein Solution\Frankenstein Project\bin\Debug\Frankenstein Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Frankenstein Solution\Frankenstein Project\bin\Debug\Frankenstein Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Frankenstein Solution\Frankenstein Project\obj\Debug\Frankenstein Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Frankenstein Solution\Frankenstein Project\obj\Debug\Frankenstein_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Frankenstein Solution\Frankenstein Project\obj\Debug\Frankenstein_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Frankenstein Solution\Frankenstein Project\obj\Debug\Frankenstein Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Frankenstein Solution\Frankenstein Project\obj\Debug\Frankenstein Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Frankenstein Solution\Frankenstein Project\obj\Debug\Frankenstein Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap08\Frankenstein Solution\Frankenstein Project\obj\Debug\Frankenstein Project.pdb

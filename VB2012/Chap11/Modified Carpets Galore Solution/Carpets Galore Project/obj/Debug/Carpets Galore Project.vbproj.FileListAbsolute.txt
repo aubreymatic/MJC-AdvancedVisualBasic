@@ -1,0 +1,22 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Carpets Galore Solution\Carpets Galore Project\bin\Debug\Carpets Galore Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Carpets Galore Solution\Carpets Galore Project\bin\Debug\Carpets Galore Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Carpets Galore Solution\Carpets Galore Project\bin\Debug\Carpets Galore Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Carpets Galore Solution\Carpets Galore Project\bin\Debug\Carpets Galore Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Carpets Galore Solution\Carpets Galore Project\obj\Debug\Carpets Galore Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Carpets Galore Solution\Carpets Galore Project\obj\Debug\Carpets_Galore_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Carpets Galore Solution\Carpets Galore Project\obj\Debug\Carpets_Galore_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Carpets Galore Solution\Carpets Galore Project\obj\Debug\Carpets Galore Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Carpets Galore Solution\Carpets Galore Project\obj\Debug\Carpets Galore Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Carpets Galore Solution\Carpets Galore Project\obj\Debug\Carpets Galore Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Carpets Galore Solution\Carpets Galore Project\obj\Debug\Carpets Galore Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Carpets Galore Solution\Carpets Galore Project\bin\Debug\Carpets Galore Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Carpets Galore Solution\Carpets Galore Project\obj\Debug\Carpets Galore Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Carpets Galore Solution\Carpets Galore Project\obj\Debug\Carpets Galore Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Carpets Galore Solution\Carpets Galore Project\obj\Debug\Carpets Galore Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Carpets Galore Solution\Carpets Galore Project\bin\Debug\Carpets Galore Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Carpets Galore Solution\Carpets Galore Project\bin\Debug\Carpets Galore Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Carpets Galore Solution\Carpets Galore Project\bin\Debug\Carpets Galore Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Carpets Galore Solution\Carpets Galore Project\obj\Debug\Carpets Galore Project.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Carpets Galore Solution\Carpets Galore Project\obj\Debug\Carpets_Galore_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Carpets Galore Solution\Carpets Galore Project\obj\Debug\Carpets_Galore_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap11\Modified Carpets Galore Solution\Carpets Galore Project\obj\Debug\Carpets Galore Project.vbproj.GenerateResource.Cache

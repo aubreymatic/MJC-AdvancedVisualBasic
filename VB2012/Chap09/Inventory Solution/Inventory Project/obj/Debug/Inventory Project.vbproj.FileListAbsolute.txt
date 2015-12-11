@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Inventory Solution\Inventory Project\bin\Debug\Inventory Project.exe.config
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Inventory Solution\Inventory Project\bin\Debug\Inventory Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Inventory Solution\Inventory Project\bin\Debug\Inventory Project.pdb
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Inventory Solution\Inventory Project\bin\Debug\Inventory Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Inventory Solution\Inventory Project\obj\Debug\Inventory_Project.frmMain.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Inventory Solution\Inventory Project\obj\Debug\Inventory_Project.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Inventory Solution\Inventory Project\obj\Debug\Inventory Project.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Inventory Solution\Inventory Project\obj\Debug\Inventory Project.exe
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Inventory Solution\Inventory Project\obj\Debug\Inventory Project.xml
+C:\Users\chris\Documents\Visual Studio 2015\Projects\VB2012\Chap09\Inventory Solution\Inventory Project\obj\Debug\Inventory Project.pdb
