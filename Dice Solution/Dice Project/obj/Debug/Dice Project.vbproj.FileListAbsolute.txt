@@ -1,0 +1,1 @@
+c:\users\chris\documents\visual studio 2015\Projects\Dice Solution\Dice Project\bin\Debug\Dice Project.exe.config
